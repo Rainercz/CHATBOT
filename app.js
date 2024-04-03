@@ -13,7 +13,7 @@ let openAIResponse = '';
 let conversationStarted = false;
 
 // Configurar OpenAI API
-const openAIApiKey = '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';
+const openAIApiKey = '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';
 
 // Función para obtener la respuesta de OpenAI
 async function getOpenAIResponse(prompt) {
